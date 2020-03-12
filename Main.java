@@ -26,5 +26,9 @@ public class Main {
 	public void MetodoR9(){
 		System.out.print("Metodo Rama 9");
 	}
+
+	public void MetodoR11(){
+		System.out.print("Metodo Rama 11");
+	}
 	
 }
