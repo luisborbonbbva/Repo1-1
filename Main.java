@@ -31,5 +31,8 @@ public class Main {
 	public void MetodoLuis(){
 		System.out.print("Metodo Luis");
 	}
-	
+
+	public void MetodoLuis v2(){
+		System.out.print("Metodo Luis v2");
+	}
 }
